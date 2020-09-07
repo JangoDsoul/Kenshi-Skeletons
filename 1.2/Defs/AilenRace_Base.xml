@@ -200,7 +200,7 @@
 	  <leatherDef>Leather_Human</leatherDef>
 	  <bloodDef>FilthCoolant</bloodDef>
 	  <body>JDS_Kenshi_Skeleton_Bodies</body>
-      <nameGenerator>JDSNamerPersonKenshiSkeleon</nameGenerator>
+      <nameGenerator>JDS_NameGenerator_Skeleton</nameGenerator>
 	  <useMeatFrom>Human</useMeatFrom>
 	  <foodType>None</foodType>
 	  <needsRest>false</needsRest>
