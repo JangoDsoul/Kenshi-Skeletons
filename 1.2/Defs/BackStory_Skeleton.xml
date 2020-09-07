@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <AlienRace.BackstoryDef>
+	<defName>KenshiSkeletonStandardChildBackground00</defName>
+	<title>Manufactured</title>
+	<titleShort>Factory Made</titleShort>
+	<baseDescription>The Skeletons are a complete mystery, nobody knows where they came from, or how they were made, but they are suspected to be thousands of years old.</baseDescription>
+	<slot>Childhood</slot>
+	<spawnCategories>
+	<li>KenshiSkeletonBackstory</li>
+	</spawnCategories>
+	<bodyTypeGlobal>Male</bodyTypeGlobal>
+	<skillGains>
+	  <li>
+		<defName>Shooting</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Melee</defName>
+		<amount>3</amount>
+	  </li>
+      <li>
+		<defName>Construction</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Mining</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Cooking</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Plants</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Animals</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Crafting</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Artistic</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Medicine</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Social</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Intellectual</defName>
+		<amount>3</amount>
+	  </li>
+	</skillGains>	
+  </AlienRace.BackstoryDef>
+  
+  <AlienRace.BackstoryDef>
+	<defName>KenshiSkeletonStandardChildBackground01</defName>
+	<title>Manufactured</title>
+	<titleShort>Factory Made</titleShort>
+	<baseDescription>The Skeletons are a complete mystery, nobody knows where they came from, or how they were made, but they are suspected to be thousands of years old.</baseDescription>
+	<slot>Childhood</slot>
+	<spawnCategories>
+	<li>KenshiSkeletonBackstory</li>
+	</spawnCategories>
+	<bodyTypeGlobal>Male</bodyTypeGlobal>
+	<skillGains>
+	  <li>
+		<defName>Shooting</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Melee</defName>
+		<amount>3</amount>
+	  </li>
+      <li>
+		<defName>Construction</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Mining</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Cooking</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Plants</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Animals</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Crafting</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Artistic</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Medicine</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Social</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Intellectual</defName>
+		<amount>3</amount>
+	  </li>
+	</skillGains>	
+  </AlienRace.BackstoryDef>  
+  
+  <AlienRace.BackstoryDef>
+	<defName>KenshiSkeletonStandardChildBackground02</defName>
+	<title>Manufactured</title>
+	<titleShort>Factory Made</titleShort>
+	<baseDescription>The Skeletons are a complete mystery, nobody knows where they came from, or how they were made, but they are suspected to be thousands of years old.</baseDescription>
+	<slot>Childhood</slot>
+	<spawnCategories>
+	<li>KenshiSkeletonBackstory</li>
+	</spawnCategories>
+	<bodyTypeGlobal>Male</bodyTypeGlobal>
+	<skillGains>
+	  <li>
+		<defName>Shooting</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Melee</defName>
+		<amount>3</amount>
+	  </li>
+      <li>
+		<defName>Construction</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Mining</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Cooking</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Plants</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Animals</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Crafting</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Artistic</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Medicine</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Social</defName>
+		<amount>3</amount>
+	  </li>
+	  <li>
+		<defName>Intellectual</defName>
+		<amount>3</amount>
+	  </li>
+	</skillGains>	
+  </AlienRace.BackstoryDef>  
+ 
+  <AlienRace.BackstoryDef>
+	<defName>KenshiSkeletonStandardAdultBackground00</defName>
+	<title>Ancient Skeleton</title>
+	<titleShort>Ancient</titleShort>
+	<baseDescription>Although extremely long-lived, they have limited memory, which is the reason they usually reset themselves every few centuries. Skeletons that don't do this are at a constant risk of losing their sanity</baseDescription>
+	<slot>Adulthood</slot>
+	<spawnCategories>
+	<li>KenshiSkeletonBackstory</li>
+	</spawnCategories>
+	<bodyTypeGlobal>Male</bodyTypeGlobal>		
+  </AlienRace.BackstoryDef>
+
+  <AlienRace.BackstoryDef>
+	<defName>KenshiSkeletonStandardAdultBackground01</defName>
+	<title>Ancient Skeleton</title>
+	<titleShort>Ancient</titleShort>
+	<baseDescription>Although extremely long-lived, they have limited memory, which is the reason they usually reset themselves every few centuries. Skeletons that don't do this are at a constant risk of losing their sanity</baseDescription>
+	<slot>Adulthood</slot>
+	<spawnCategories>
+	<li>KenshiSkeletonBackstory</li>
+	</spawnCategories>
+	<bodyTypeGlobal>Male</bodyTypeGlobal>		
+  </AlienRace.BackstoryDef>
+
+  <AlienRace.BackstoryDef>
+	<defName>KenshiSkeletonStandardAdultBackground02</defName>
+	<title>Ancient Skeleton</title>
+	<titleShort>Ancient</titleShort>
+	<baseDescription>Although extremely long-lived, they have limited memory, which is the reason they usually reset themselves every few centuries. Skeletons that don't do this are at a constant risk of losing their sanity</baseDescription>
+	<slot>Adulthood</slot>
+	<spawnCategories>
+	<li>KenshiSkeletonBackstory</li>
+	</spawnCategories>
+	<bodyTypeGlobal>Male</bodyTypeGlobal>		
+  </AlienRace.BackstoryDef>
+
+</Defs>
