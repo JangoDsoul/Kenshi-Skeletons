@@ -31,78 +31,30 @@
           </colorChannels-->		 
 	   </alienPartGenerator>	   
 		 <disallowedTraits>
-		   <li>
-             <defName>DrugDesire</defName>
-           </li>
-		   <li>
-             <defName>NaturalMood</defName>
-           </li>
-		   <li>
-              <defName>Nerves</defName>
-           </li>
-		   <li>
-              <defName>Neurotic</defName>
-           </li>
-		   <li>
-              <defName>PsychicSensitivity</defName>
-           </li>
-		   <li>
-              <defName>Cannibal</defName>
-           </li>
-		   <li>
-              <defName>TooSmart</defName>
-           </li>
-		   <li>
-              <defName>Transhumanist</defName>
-           </li>
-		   <li>
-              <defName>BodyPurist</defName>
-           </li>
-		   <li>
-              <defName>Greedy</defName>
-           </li>
-		   <li>
-              <defName>Jealous</defName>
-           </li>
-		   <li>
-              <defName>Nudist</defName>
-           </li>
-		   <li>
-              <defName>DislikesMen</defName>
-           </li>
-		   <li>
-              <defName>DislikesWomen</defName>
-           </li>
-		   <li>
-              <defName>AnnoyingVoice</defName>
-           </li>
-		   <li>
-              <defName>CreepyBreathing</defName>
-           </li>
-		   <li>
-              <defName>Pyromaniac</defName>
-           </li>
-		   <li>
-              <defName>Wimp</defName>
-           </li>
-		   <li>
-              <defName>Gourmand</defName>
-           </li>
-		   <li>
-              <defName>Xenophobia</defName>
-           </li>
-		   <li>
-              <defName>Brawler</defName>
-           </li>
-		   <li>
-              <defName>Gay</defName>
-           </li>
-		   <li>
-              <defName>Bisexual</defName>
-           </li>
-		   <li>
-              <defName>Asexual</defName>
-           </li>
+		   <li><defName>DrugDesire</defName></li>
+		   <li><defName>NaturalMood</defName></li>
+		   <li><defName>Nerves</defName></li>
+		   <li><defName>Neurotic</defName></li>
+		   <li><defName>PsychicSensitivity</defName></li>
+		   <li><defName>Cannibal</defName></li>
+		   <li><defName>TooSmart</defName></li>
+		   <li><defName>Transhumanist</defName></li>
+		   <li><defName>BodyPurist</defName></li>
+		   <li><defName>Greedy</defName></li>
+		   <li><defName>Jealous</defName></li>
+		   <li><defName>Nudist</defName></li>
+		   <li><defName>DislikesMen</defName></li>
+		   <li><defName>DislikesWomen</defName></li>
+		   <li><defName>AnnoyingVoice</defName></li>
+		   <li><defName>CreepyBreathing</defName></li>
+		   <li><defName>Pyromaniac</defName></li>
+		   <li><defName>Wimp</defName></li>
+		   <li><defName>Gourmand</defName></li>
+		   <li><defName>Xenophobia</defName></li>
+		   <li><defName>Brawler</defName></li>
+		   <li><defName>Gay</defName></li>
+		   <li><defName>Bisexual</defName></li>
+		   <li><defName>Asexual</defName></li>
 		  </disallowedTraits>
 	 </generalSettings>
 	 <hairSettings>
@@ -192,7 +144,7 @@
 	</statBases>
 	<race>
 	  <fleshType>JDS_Kenshi_Skeleton_FleshType</fleshType> <!-- \\\ JDS_Kenshi_Skeleton_FleshType \\\-->
-	  <thinkTreeMain>KenshiSkeletionThinkTree</thinkTreeMain>  <!-- \\\ KenshiSkeletionThinkTree \\\ -->
+	  <thinkTreeMain>Kenshi_Skeleton_ThinkTree</thinkTreeMain>  <!-- \\\ KenshiSkeletionThinkTree \\\ -->
 	  <thinkTreeConstant>HumanlikeConstant</thinkTreeConstant>
 	  <intelligence>Humanlike</intelligence>
 	  <makesFootprints>true</makesFootprints>

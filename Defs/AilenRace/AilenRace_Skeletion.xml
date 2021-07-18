@@ -9,7 +9,7 @@
 	  <generalSettings>
 		<alienPartGenerator>
 		  <aliencrowntypes>
-			<li>Normal</li>
+			<li>Average_Normal</li>
 		  </aliencrowntypes>
 		  <alienbodytypes>
 			<li>Male</li>
